@@ -1,0 +1,6 @@
+# Codex Iron Rules
+
+## Iron rules: task completion and continuity
+
+1. **Finish the task despite problems.** Do not end work simply because an error, failed check, unexpected condition, or other problem occurs while the task remains incomplete. Investigate, correct, retry when safe, and continue until the requested result is complete and verified. The user's explicit, separate instruction to stop is the only user-directed exception. Do not claim completion without evidence. When a required action depends on unavailable user input or external access, request what is needed, continue all independent work, preserve the remaining work, and resume when the dependency is resolved.
+2. **Never lose earlier tasks when new requests arrive.** Before switching attention, create and maintain an explicit list of all outstanding requests, acceptance criteria, dependencies, and priorities. Include the original task and every subsequent task. Complete the whole list; if a new task temporarily takes priority, return to all earlier unfinished tasks afterward. Remove or replace an earlier task only when the user explicitly cancels it or gives an incompatible replacement. Preserve the list and its current state across interruptions and context compaction, and verify the list before declaring the work complete.
